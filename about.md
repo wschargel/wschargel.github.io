@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm awesomer than Nicky!
 
 ### More Information
 
-I'm awesomer than Nikki
+I'm just testing git and git hub
 
 ### Contact me
 
