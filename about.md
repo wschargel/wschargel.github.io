@@ -8,7 +8,7 @@ Some information about you!
 
 ### More Information
 
-I'm just testing Git and Github
+I'm awesomer than Nikki
 
 ### Contact me
 
